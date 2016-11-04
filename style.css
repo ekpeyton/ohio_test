@@ -1,0 +1,31 @@
+body {
+	background-color: rgb(110, 180, 205);
+}
+
+.center {
+	text-align: center;
+}
+
+h1 {
+	width: 50%
+	background-color: white;
+}
+
+div {
+	width: 96%;
+	background-color: rgb(244, 170, 0);
+	margin: 0 auto;
+	font-size: 2em;
+	padding-top: 100px;
+}
+
+@media (min-width: 768px) {
+	div {
+		width: 48%;
+		float: left;
+		background-color: rgb(244, 170, 0);
+		margin: 1%;
+		font-size: 3em;
+		padding-top: 100px;
+	}
+}
