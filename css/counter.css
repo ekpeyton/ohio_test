@@ -1,0 +1,12 @@
+body {
+	background-color: rgb(0, 105, 78);
+	color: white;
+	font-family: Frutiger, sans-serif;
+}
+
+.catcounter {
+	font-size: 2em;
+	margin: 100px auto;
+	width: 50%;
+	text-align: center;
+}
