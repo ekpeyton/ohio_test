@@ -1,11 +1,12 @@
 body {
-	background-color: #F1CE72;
+	background-color: white;
+	/*#F1CE72;*/
 }
 
 .bar {
 	fill: #F15100;
 	display: inline-block;
 	margin-right: 2px;
-	width: 20px;
+	/*width: 20px;*/
 
 }
